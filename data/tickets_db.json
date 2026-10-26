@@ -1,0 +1,20 @@
+[
+  {
+    "id": "TICKET-1",
+    "title": "Планування розробки Neon Rush",
+    "description": "Створити план розробки, визначити етапи, ресурси та терміни для мобільної гри Neon Rush.",
+    "assignee": "Костянтин",
+    "project_id": "PROJ-NEON-RUSH",
+    "priority": "High",
+    "status": "TODO"
+  },
+  {
+    "id": "TICKET-2",
+    "title": "Дизайн рівнів та тестування",
+    "description": "Розробити та протестувати усі рівні, зокрема останній рівень на космічному кораблі, забезпечити баланс і якість геймплею.",
+    "assignee": "Станіслав",
+    "project_id": "PROJ-NEON-RUSH",
+    "priority": "High",
+    "status": "TODO"
+  }
+]

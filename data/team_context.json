@@ -1,0 +1,28 @@
+{
+  "active_projects": [
+    {
+      "id": "PROJ-NEON-RUSH",
+      "name": "Neon Rush: Cyber Drift",
+      "keywords": ["неон", "мобілка", "дрифт", "монетизація", "реклама"]
+    },
+    {
+      "id": "PROJ-DND-TOOLKIT",
+      "name": "Dungeon Master Toolkit",
+      "keywords": ["днд", "ваншот", "кубики", "енкаунтер", "бестіарій", "карта"]
+    },
+    {
+      "id": "PROJ-EDU-PORTAL",
+      "name": "University LMS Platform",
+      "keywords": ["портал", "студенти", "оцінки", "дашборд", "кабінет"]
+    },
+    {
+      "id": "PROJ-SPACE-SIM",
+      "name": "Galactic Trade Simulator",
+      "keywords": ["космос", "кораблі", "економіка", "торгівля", "галактика"]
+    }
+  ],
+  "team_members": [
+    {"name": "Костянтин", "role": "Project Manager", "responsibilities": ["спринти", "релізи", "Steam"]},
+    {"name": "Станіслав", "role": "Level Designer / QA", "responsibilities": ["дизайн рівнів", "тестування", "механіки"]}
+  ]
+}
