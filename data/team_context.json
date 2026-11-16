@@ -23,6 +23,7 @@
   ],
   "team_members": [
     {"name": "Костянтин", "role": "Project Manager", "responsibilities": ["спринти", "релізи", "Steam"]},
-    {"name": "Станіслав", "role": "Level Designer / QA", "responsibilities": ["дизайн рівнів", "тестування", "механіки"]}
+    {"name": "Станіслав", "role": "Level Designer / QA", "responsibilities": ["дизайн рівнів", "тестування", "механіки"]},
+    {"name": "Максим", "role": "Developer", "responsibilities": ["інтеграція", "код", "логіка"]}
   ]
 }

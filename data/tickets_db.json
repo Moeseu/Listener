@@ -1,17 +1,17 @@
 [
   {
     "id": "TICKET-1",
-    "title": "Create development roadmap for Neon Rush",
-    "description": "Outline milestones, sprints, and deliverables for mobile game development.",
-    "assignee": "Костянтин",
+    "title": "Create UI mockups for main menu of Neon Rush",
+    "description": "Deliver finalized UI mockups for the main menu of Neon Rush, including layout, navigation flow, and visual assets, by end of week.",
+    "assignee": "Станіслав",
     "project_id": "PROJ-NEON-RUSH",
     "priority": "Medium",
     "status": "TODO"
   },
   {
     "id": "TICKET-2",
-    "title": "Design level architecture for space-themed levels",
-    "description": "Define level types, progression, and core mechanics for space-themed levels.",
+    "title": "Create 3D model for boss enemy",
+    "description": "Deliver finalized 3D model of the boss enemy for Neon Rush, including textures, rigging, and animation-ready mesh, by end of sprint.",
     "assignee": "Станіслав",
     "project_id": "PROJ-NEON-RUSH",
     "priority": "Medium",
@@ -19,36 +19,9 @@
   },
   {
     "id": "TICKET-3",
-    "title": "Design final level on spaceship",
-    "description": "Create layout, objectives, and obstacles for the final ship level.",
-    "assignee": "Станіслав",
-    "project_id": "PROJ-NEON-RUSH",
-    "priority": "Medium",
-    "status": "TODO"
-  },
-  {
-    "id": "TICKET-4",
-    "title": "Create test plan for space-themed levels",
-    "description": "Define test cases, acceptance criteria, and testing schedule for space-themed levels.",
-    "assignee": "Станіслав",
-    "project_id": "PROJ-NEON-RUSH",
-    "priority": "Medium",
-    "status": "TODO"
-  },
-  {
-    "id": "TICKET-5",
-    "title": "Test space-themed levels",
-    "description": "Perform QA on all space-themed levels, document bugs and issues.",
-    "assignee": "Станіслав",
-    "project_id": "PROJ-NEON-RUSH",
-    "priority": "Medium",
-    "status": "TODO"
-  },
-  {
-    "id": "TICKET-6",
-    "title": "Approve development roadmap",
-    "description": "Review and sign off on the development roadmap.",
-    "assignee": "Костянтин",
+    "title": "Implement boss enemy logic",
+    "description": "Deliver fully functional boss enemy logic for Neon Rush, including attack patterns, health system, and AI behavior, by end of sprint.",
+    "assignee": "Максим",
     "project_id": "PROJ-NEON-RUSH",
     "priority": "Medium",
     "status": "TODO"

@@ -7,7 +7,7 @@ from src.mcp_client import export_tasks_via_mcp
 load_dotenv()
 
 def main():
-    audio_path = "data/sample_meeting.mp3"
+    audio_path = "data/sample_meeting2.mp3"
     
     print("1. Розпізнавання аудіо...")
     transcriber = AudioTranscriber()
