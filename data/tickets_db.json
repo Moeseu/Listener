@@ -1,20 +1,56 @@
 [
   {
     "id": "TICKET-1",
-    "title": "Планування розробки Neon Rush",
-    "description": "Створити план розробки, визначити етапи, ресурси та терміни для мобільної гри Neon Rush.",
+    "title": "Create development roadmap for Neon Rush",
+    "description": "Outline milestones, sprints, and deliverables for mobile game development.",
     "assignee": "Костянтин",
     "project_id": "PROJ-NEON-RUSH",
-    "priority": "High",
+    "priority": "Medium",
     "status": "TODO"
   },
   {
     "id": "TICKET-2",
-    "title": "Дизайн рівнів та тестування",
-    "description": "Розробити та протестувати усі рівні, зокрема останній рівень на космічному кораблі, забезпечити баланс і якість геймплею.",
+    "title": "Design level architecture for space-themed levels",
+    "description": "Define level types, progression, and core mechanics for space-themed levels.",
     "assignee": "Станіслав",
     "project_id": "PROJ-NEON-RUSH",
-    "priority": "High",
+    "priority": "Medium",
+    "status": "TODO"
+  },
+  {
+    "id": "TICKET-3",
+    "title": "Design final level on spaceship",
+    "description": "Create layout, objectives, and obstacles for the final ship level.",
+    "assignee": "Станіслав",
+    "project_id": "PROJ-NEON-RUSH",
+    "priority": "Medium",
+    "status": "TODO"
+  },
+  {
+    "id": "TICKET-4",
+    "title": "Create test plan for space-themed levels",
+    "description": "Define test cases, acceptance criteria, and testing schedule for space-themed levels.",
+    "assignee": "Станіслав",
+    "project_id": "PROJ-NEON-RUSH",
+    "priority": "Medium",
+    "status": "TODO"
+  },
+  {
+    "id": "TICKET-5",
+    "title": "Test space-themed levels",
+    "description": "Perform QA on all space-themed levels, document bugs and issues.",
+    "assignee": "Станіслав",
+    "project_id": "PROJ-NEON-RUSH",
+    "priority": "Medium",
+    "status": "TODO"
+  },
+  {
+    "id": "TICKET-6",
+    "title": "Approve development roadmap",
+    "description": "Review and sign off on the development roadmap.",
+    "assignee": "Костянтин",
+    "project_id": "PROJ-NEON-RUSH",
+    "priority": "Medium",
     "status": "TODO"
   }
 ]
