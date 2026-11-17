@@ -1,2 +1,5 @@
 .env
-__pycache__/
+__pycache__/data/archive/processed/*
+data/archive/failed/*
+data/results/*
+!data/**/.gitkeep

@@ -1,29 +1,62 @@
 [
   {
     "id": "TICKET-1",
-    "title": "Create UI mockups for main menu of Neon Rush",
-    "description": "Deliver finalized UI mockups for the main menu of Neon Rush, including layout, navigation flow, and visual assets, by end of week.",
+    "title": "Тестування третього рівня",
+    "description": "Тестувати третій рівень гри Neon Rush до п'ятниці.",
     "assignee": "Станіслав",
     "project_id": "PROJ-NEON-RUSH",
-    "priority": "Medium",
-    "status": "TODO"
+    "priority": "High",
+    "status": "TODO",
+    "source": "1.mp3"
   },
   {
     "id": "TICKET-2",
-    "title": "Create 3D model for boss enemy",
-    "description": "Deliver finalized 3D model of the boss enemy for Neon Rush, including textures, rigging, and animation-ready mesh, by end of sprint.",
-    "assignee": "Станіслав",
+    "title": "Підготовка релізу у Steam",
+    "description": "Підготувати реліз Neon Rush у Steam на наступний тиждень.",
+    "assignee": "Костянтин",
     "project_id": "PROJ-NEON-RUSH",
     "priority": "Medium",
-    "status": "TODO"
+    "status": "TODO",
+    "source": "1.mp3"
   },
   {
     "id": "TICKET-3",
-    "title": "Implement boss enemy logic",
-    "description": "Deliver fully functional boss enemy logic for Neon Rush, including attack patterns, health system, and AI behavior, by end of sprint.",
+    "title": "Замовити нові футболки для команди",
+    "description": "Замовити нові футболки для команди та визначити відповідального до кінця місяця",
+    "assignee": "Unassigned",
+    "project_id": "NONE",
+    "priority": "Medium",
+    "status": "TODO",
+    "source": "2.mp3"
+  },
+  {
+    "id": "TICKET-4",
+    "title": "Створити макет сторінки з оцінками",
+    "description": "Розробити графічний макет сторінки, що відображає оцінки студентів на порталі.",
     "assignee": "Максим",
+    "project_id": "PROJ-EDU-PORTAL",
+    "priority": "Medium",
+    "status": "TODO",
+    "source": "4.mp3"
+  },
+  {
+    "id": "TICKET-5",
+    "title": "Написати програмний код для сторінки з оцінками",
+    "description": "Реалізувати функціонал відображення оцінок студентів, інтегрувати з бекендом порталу.",
+    "assignee": "Максим",
+    "project_id": "PROJ-EDU-PORTAL",
+    "priority": "Medium",
+    "status": "TODO",
+    "source": "4.mp3"
+  },
+  {
+    "id": "TICKET-6",
+    "title": "Підготувати музику для головного меню Neon Rush",
+    "description": "Створити та підготувати музику для головного меню Neon Rush до п'ятниці.",
+    "assignee": "Unassigned",
     "project_id": "PROJ-NEON-RUSH",
     "priority": "Medium",
-    "status": "TODO"
+    "status": "TODO",
+    "source": "6.mp3"
   }
 ]
